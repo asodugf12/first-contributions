@@ -198,6 +198,7 @@
 - [Junkai Ji](http://github.com/swampholyten)
 - [want2012](https://github.com/want2012)
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
+- [Hongas](https://github.com/asodugf12)
 - [LionKang](https://github.com/Lion-Kang)
 - [Tsveto](https://github.com/Sclipper)
 - [salaminipples](https://github.com/salaminipples)
